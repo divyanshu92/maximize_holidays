@@ -1,5 +1,9 @@
 # Maximize Holidays
 
+[![Deploy to GitHub Pages](https://github.com/YOUR_USERNAME/maximize_holidays/actions/workflows/deploy.yml/badge.svg)](https://github.com/YOUR_USERNAME/maximize_holidays/actions/workflows/deploy.yml)
+
+🔗 **[Live Demo](https://YOUR_USERNAME.github.io/maximize_holidays/)**
+
 A smart holiday planning application that helps you find the best days to take leave to get the longest possible vacation blocks.
 
 This application is a highly configurable "decision support tool" that allows you to define all your leave and holiday constraints, and then presents a ranked list of all possible long weekend opportunities for you to choose from.
@@ -49,3 +53,10 @@ This application is a highly configurable "decision support tool" that allows yo
 ## Deployment
 
 This project is configured for automatic deployment to GitHub Pages using GitHub Actions. Any push to the `main` branch will trigger the deployment workflow.
+
+**Live Application:** https://YOUR_USERNAME.github.io/maximize_holidays/
+
+### Manual Deployment Steps:
+1. Push your code to the `main` branch
+2. GitHub Actions will automatically build and deploy to GitHub Pages
+3. The site will be available at the URL above within a few minutes
